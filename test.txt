@@ -1,1 +1,6 @@
 test
+
+git remote add origin https://github.com/srikanthvs/test
+
+
+this is ldry.com
